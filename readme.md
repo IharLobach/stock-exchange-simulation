@@ -13,3 +13,5 @@ Also, in terminal 1, every 5 seconds, a line showing the sum of balances of all 
 traders, will be printed. When it is printed, the trading is suspended for 2 seconds, so that it is possible to read the line.
 
 Use Ctrl+C to stop the server in terminal 1.
+
+![Demo](stock-exchange-demo.gif)
